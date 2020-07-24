@@ -1,0 +1,3 @@
+cd ~/rslidar_ws
+source devel/setup.bash
+roslaunch rslidar_pointcloud my_rs_lidar_16.launch
